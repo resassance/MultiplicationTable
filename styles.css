@@ -1,0 +1,20 @@
+body {
+	font-family: monospace;
+	font-size: 17px;
+	line-height: 27px;
+	max-width: 2000px;
+	margin: 0 auto;
+	padding: 0 40px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 40px;
+}
+
+.column {
+	padding: 10px;
+	border: 4px inset rgba(105, 105, 105, 1);
+	background-color: #F0F8FF;
+}
